@@ -14,6 +14,8 @@ struct TimeTableViews: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("TimeTableViews")
+            
+            Text("done integration to database")
         }
         .padding()
     }
