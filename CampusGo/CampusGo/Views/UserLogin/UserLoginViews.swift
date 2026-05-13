@@ -16,6 +16,8 @@ struct UserLoginViews: View {
             Text("UserLoginViews")
             
             Text("done integration to api login")
+            
+            Text("done test login")
         }
         .padding()
     }
