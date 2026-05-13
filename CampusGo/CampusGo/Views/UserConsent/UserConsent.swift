@@ -14,6 +14,8 @@ struct UserConsent: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("UserConsent")
+            
+            Text("done integration to database")
         }
         .padding()
     }
